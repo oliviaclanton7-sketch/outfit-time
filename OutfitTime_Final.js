@@ -2337,18 +2337,20 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/modelanimate.png", id:"modelanimate"},
-		{src:"images/pursepngcopy.png", id:"pursepngcopy"},
-		{src:"images/purse2.png", id:"purse2"},
-		{src:"images/shirt1.png", id:"shirt1"},
-		{src:"images/shoes.png", id:"shoes"},
-		{src:"images/shoes2.png", id:"shoes2"},
-		{src:"images/Untitled5.png", id:"Untitled5"},
-		{src:"images/OutfitTime_Final_atlas_1.png", id:"OutfitTime_Final_atlas_1"},
-		{src:"images/OutfitTime_Final_atlas_2.png", id:"OutfitTime_Final_atlas_2"},
-		{src:"images/OutfitTime_Final_atlas_3.png", id:"OutfitTime_Final_atlas_3"},
-		{src:"images/OutfitTime_Final_atlas_4.png", id:"OutfitTime_Final_atlas_4"},
-		{src:"sounds/matthewvakaliuk73627mouseclick2902041.mp3", id:"matthewvakaliuk73627mouseclick2902041"}
+		
+{src:"modelanimate.png", id:"modelanimate"},
+{src:"pursepngcopy.png", id:"pursepngcopy"},
+{src:"purse2.png", id:"purse2"},
+{src:"shirt1.png", id:"shirt1"},
+{src:"shoes.png", id:"shoes"},
+{src:"shoes2.png", id:"shoes2"},
+{src:"Untitled5.png", id:"Untitled5"},
+{src:"OutfitTime_Final_atlas_1.png", id:"OutfitTime_Final_atlas_1"},
+{src:"OutfitTime_Final_atlas_2.png", id:"OutfitTime_Final_atlas_2"},
+{src:"OutfitTime_Final_atlas_3.png", id:"OutfitTime_Final_atlas_3"},
+{src:"OutfitTime_Final_atlas_4.png", id:"OutfitTime_Final_atlas_4"},
+{src:"matthewvakaliuk73627mouseclick2902041.mp3", id:"matthewvakaliuk73627mouseclick2902041"}
+
 	],
 	preloads: []
 };
