@@ -1766,7 +1766,7 @@ if (reversed == null) { reversed = false; }
 	this._renderFirstFrame();
 
 }).prototype = getMCSymbolPrototype(lib.Symbol3, new cjs.Rectangle(0,0,1400,1900), null);
-
+this.instance_1.setTransform(627.3,1047.3,0.0222,0.0444,0,0,0,2252.8,2812.1);
 
 (lib.finalOutfit = function(mode,startPosition,loop,reversed) {
 if (loop == null) { loop = true; }
